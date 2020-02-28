@@ -1,0 +1,92 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/lionwiki-3.2.11/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Main Page</title>
+	  <pubDate>Fri, 28 Feb 2020 15:33:02 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+Page</link>
+	  <description><pre id="diff"></pre></description>
+	</item>
+
+	<item>
+	  <title>Ryo's Information</title>
+	  <pubDate>Fri, 28 Feb 2020 14:32:44 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Ryo%27s+Information</link>
+	  <description><pre id="diff"><ins>Hi! Welcome to my wiki. Here is a short wiki of myself :) I am a 19 year old Indonesian boy who happens to be studying at UPH. Currently residing at Jakarta, I travel by car everyday to study Computer Science. It's not easy but life is never easy :)</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main Page</title>
+	  <pubDate>Fri, 28 Feb 2020 14:30:46 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+Page</link>
+	  <description><pre id="diff">Hi, this is the main page!
+
+[Dave's Information|http://localhost/lionwiki-3.2.11/index.php?page=Dave's+Information]
+
+[Ryo's <del>Information|http://localhost/lionwiki-3.2.11/index.php?page=Ryo+Information]</del><ins>Information|http://localhost/lionwiki-3.2.11/index.php?page=Ryo's+Information]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main Page</title>
+	  <pubDate>Fri, 28 Feb 2020 14:30:31 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+Page</link>
+	  <description><pre id="diff">Hi, this is the main page!
+
+[Dave's <del>Information|http://localhost/lionwiki-3.2.11/index.php?page=Dave+Information]</del><ins>Information|http://localhost/lionwiki-3.2.11/index.php?page=Dave's+Information]</ins>
+
+[Ryo's Information|http://localhost/lionwiki-3.2.11/index.php?page=Ryo+Information]
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main Page</title>
+	  <pubDate>Fri, 28 Feb 2020 14:29:23 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+Page</link>
+	  <description><pre id="diff">Hi, this is the main page!
+
+[Dave's <del>Information|http://localhost/lionwiki-3.2.11/index.php?page=dave]</del><ins>Information|http://localhost/lionwiki-3.2.11/index.php?page=Dave+Information]
+
+[Ryo's Information|http://localhost/lionwiki-3.2.11/index.php?page=Ryo+Information]</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>dave</title>
+	  <pubDate>Fri, 28 Feb 2020 14:27:30 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=dave</link>
+	  <description><pre id="diff"><ins>Hello, my name is Dave. I am a second year undergraduate student at Pelita Harapan University, majoring in Computer Science. I'm a coffee addict and also a book lover. Follow my Instagram to know me more, @arcanedave.</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Dave's Information</title>
+	  <pubDate>Fri, 28 Feb 2020 14:25:49 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Dave%27s+Information</link>
+	  <description><pre id="diff"><ins>Hello, my name is Dave. I am a second year undergraduate student at Pelita Harapan University, majoring in Computer Science. I'm a coffee addict and also a book lover. Follow my Instagram to know me more, @arcanedave.</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main Page</title>
+	  <pubDate>Fri, 28 Feb 2020 14:23:37 +0700</pubDate>
+	  <link>http://_:80/lionwiki-3.2.11/index.php?page=Main+Page</link>
+	  <description><pre id="diff"><ins>Hi, this is the main page!
+
+[Dave's Information|http://localhost/lionwiki-3.2.11/index.php?page=dave]</ins>
+</pre></description>
+	</item>
+
+
+
+
+
+
+
+</channel>
+</rss>
