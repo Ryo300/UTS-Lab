@@ -33,3 +33,10 @@ nano info.php
 #REMOVE TEST FILE
 rm -rf info.php
 
+#LION WIKI
+#GIVE PERMISSION
+chmod +w var
+#DOWNLOAD LION WIKI
+wget http://lionwiki.0o.cz/download/3.2.11/lionwiki-3.2.11.zip
+#UNZIP LION WIKI
+unzip lionwiki-3.2.11.zip
