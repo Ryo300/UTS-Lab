@@ -14,3 +14,22 @@ curl -4 icanhazip.com
 sudo mysql_secure_installation
 sudo mariadb
 
+
+#NGIX SERVER SETUP
+#LOCATE CONFIG FILE
+cd /etc/nginx/sites-available
+#DUPLICATE CONFIG FILE
+cp -t ~/.git default
+#RENAME CONFIG FILE
+mv -T default midtest
+#EDIT CONFIG
+nano midtest
+#TEST CONFIG
+sudo nginx -t
+#CHANGE DIRECTORY
+cd /var/www/html/
+#TEST SERVER
+nano info.php
+#REMOVE TEST FILE
+rm -rf info.php
+
